@@ -6,6 +6,6 @@
 
 **Achternaam:** Kostorz
 
-**E-mail adres:** [Oliwia Kostorz](99026067@mydavinci.nl)
+**E-mail adres:** [99026067@mydavinci.nl](99026067@mydavinci.nl)
 
 **Telefoon:** 06 12345678
