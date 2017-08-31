@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Oliwia
 
-**Voornaam:** Jeroen
+**Voornaam:** Oliwia
 
-**Achternaam:** Slemmer
+**Achternaam:** Kostorz
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [99026067@mydavinci.nl](Oliwia Kostorz)
 
-**Telefoon:** 0612345678
+**Telefoon:** 06 12345678
